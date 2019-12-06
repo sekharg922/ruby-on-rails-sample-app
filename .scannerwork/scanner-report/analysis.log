@@ -51,6 +51,7 @@ Global server settings:
   - sonar.tsql.file.suffixes=.tsql
 Project server settings:
 Project scanner properties:
+  - sonar.branch.name=develop
   - sonar.exclusions=vendor/**
   - sonar.host.url=https://sonarcloud.io
   - sonar.login=******
