@@ -1,0 +1,1 @@
+ 2rubyXhr!app/uploaders/picture_uploader.rb

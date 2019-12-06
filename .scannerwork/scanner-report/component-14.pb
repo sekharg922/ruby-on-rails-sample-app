@@ -1,0 +1,1 @@
+ 2rubyXhr1app/controllers/account_activations_controller.rb

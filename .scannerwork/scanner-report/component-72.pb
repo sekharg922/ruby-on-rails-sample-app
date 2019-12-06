@@ -1,0 +1,1 @@
+H 2cssXhr(app/assets/stylesheets/static_pages.scss

@@ -1,0 +1,1 @@
+ 2webXhr$app/views/shared/_user_info.html.erb

@@ -1,0 +1,1 @@
+¡ 2rubyXhr9db/migrate/20160602174637_add_remember_digest_to_users.rb

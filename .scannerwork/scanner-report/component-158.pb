@@ -1,0 +1,1 @@
+ 2rubyXhr9db/migrate/20160523203059_add_password_digest_to_users.rb

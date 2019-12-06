@@ -1,0 +1,1 @@
+¤ 2rubyXhr5db/migrate/20160523202806_add_index_to_users_email.rb

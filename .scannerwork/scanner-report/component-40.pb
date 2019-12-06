@@ -1,0 +1,1 @@
+( 2webXhrapp/views/users/new.html.erb

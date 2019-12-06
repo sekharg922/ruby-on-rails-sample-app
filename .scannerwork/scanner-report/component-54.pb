@@ -1,0 +1,1 @@
+6 2jsXhrapp/assets/config/manifest.js

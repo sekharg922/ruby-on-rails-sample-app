@@ -1,0 +1,1 @@
+¢ 2rubyXhr/db/migrate/20160606233616_add_reset_to_users.rb

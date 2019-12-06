@@ -1,0 +1,1 @@
+j 2rubyXhr0test/controllers/static_pages_controller_test.rb

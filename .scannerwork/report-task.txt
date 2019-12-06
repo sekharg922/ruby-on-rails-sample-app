@@ -1,0 +1,7 @@
+organization=sekharg922
+projectKey=sekharg922_ruby-on-rails-sample-app
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.3300
+dashboardUrl=https://sonarcloud.io/dashboard?id=sekharg922_ruby-on-rails-sample-app
+ceTaskId=AW7cvI-0gNwFcwNcj0SA
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW7cvI-0gNwFcwNcj0SA

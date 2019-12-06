@@ -1,0 +1,1 @@
+ˆ 2rubyXhr#config/initializers/carrier_wave.rb

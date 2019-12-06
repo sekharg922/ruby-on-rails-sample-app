@@ -1,0 +1,1 @@
+3 2webXhr-app/views/user_mailer/password_reset.html.erb

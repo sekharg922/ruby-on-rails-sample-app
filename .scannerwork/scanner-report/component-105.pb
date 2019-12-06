@@ -1,0 +1,1 @@
+i 2rubyXhr.test/controllers/microposts_controller_test.rb

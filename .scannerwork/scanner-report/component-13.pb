@@ -1,0 +1,1 @@
+ 2rubyXhr*app/controllers/static_pages_controller.rb

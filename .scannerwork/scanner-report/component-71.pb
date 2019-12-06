@@ -1,0 +1,1 @@
+G 2cssXhr/app/assets/stylesheets/account_activations.scss
