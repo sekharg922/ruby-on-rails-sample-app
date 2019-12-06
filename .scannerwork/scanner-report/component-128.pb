@@ -1,0 +1,1 @@
+€ 2rubyXhr6config/initializers/application_controller_renderer.rb

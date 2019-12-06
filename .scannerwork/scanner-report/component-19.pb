@@ -1,0 +1,1 @@
+ 2rubyXAhr-app/controllers/password_resets_controller.rb

@@ -1,0 +1,1 @@
+_ 2rubyX>hr(test/integration/password_resets_test.rb

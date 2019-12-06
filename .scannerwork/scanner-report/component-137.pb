@@ -1,0 +1,1 @@
+‰ 2rubyXhr1config/initializers/request_forgery_protection.rb

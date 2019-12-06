@@ -230,6 +230,12 @@ GEM
       fog-core
       nokogiri (>= 1.5.11, < 2.0.0)
     formatador (0.2.5)
+    gems (1.2.0)
+    gemsurance (0.10.0)
+      bundler (>= 1.2, < 3.0)
+      gems (>= 0.8)
+      git (~> 1.2)
+    git (1.5.0)
     globalid (0.4.1)
       activesupport (>= 4.2.0)
     guard (2.14.1)
@@ -410,6 +416,7 @@ DEPENDENCIES
   coffee-rails (= 4.2.2)
   faker (= 1.7.3)
   fog (= 1.42)
+  gemsurance
   guard (= 2.14.1)
   guard-minitest (= 2.4.6)
   jbuilder (= 2.7.0)
@@ -433,4 +440,4 @@ DEPENDENCIES
   will_paginate (= 3.1.6)
 
 BUNDLED WITH
-   1.16.2
+   1.17.2

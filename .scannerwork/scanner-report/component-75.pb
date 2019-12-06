@@ -1,0 +1,1 @@
+K 2rubyXhr"app/helpers/static_pages_helper.rb

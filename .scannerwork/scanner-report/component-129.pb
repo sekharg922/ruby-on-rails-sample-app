@@ -1,0 +1,1 @@
+Å 2rubyXhr!config/initializers/mime_types.rb

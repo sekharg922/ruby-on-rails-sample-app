@@ -1,0 +1,1 @@
+› 2rubyXhr6db/migrate/20160608202205_add_picture_to_microposts.rb

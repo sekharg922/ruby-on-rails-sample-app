@@ -1,0 +1,1 @@
+£ 2rubyXhr/db/migrate/20160605021434_add_admin_to_users.rb

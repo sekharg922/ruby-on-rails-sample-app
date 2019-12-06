@@ -1,0 +1,1 @@
+Ÿ 2rubyXhr1db/migrate/20160609220802_create_relationships.rb

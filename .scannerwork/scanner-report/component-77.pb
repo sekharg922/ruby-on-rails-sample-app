@@ -1,0 +1,1 @@
+M 2rubyXhr%app/helpers/password_resets_helper.rb

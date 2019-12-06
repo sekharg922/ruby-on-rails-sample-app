@@ -1,0 +1,1 @@
+$ 2webX	hr%app/views/users/_follow_form.html.erb

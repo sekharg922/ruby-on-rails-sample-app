@@ -1,0 +1,1 @@
+œ 2rubyXhr4db/migrate/20160606194223_add_activation_to_users.rb

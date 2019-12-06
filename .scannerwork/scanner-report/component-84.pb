@@ -1,0 +1,1 @@
+T 2rubyXhr)app/channels/application_cable/channel.rb

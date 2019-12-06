@@ -1,0 +1,1 @@
+Š 2rubyXhrCconfig/initializers/active_record_belongs_to_required_by_default.rb

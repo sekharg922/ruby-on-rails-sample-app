@@ -1,0 +1,1 @@
+† 2rubyXhr+config/initializers/per_form_csrf_tokens.rb
